@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><img src="./assets/hero.svg?v=red1" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" /></picture>
+<picture><img src="./assets/hero-red.svg" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" /></picture>
 
 <br /><br />
 
@@ -11,11 +11,11 @@
 
 <br /><br />
 
-<picture><img src="./assets/terminal.svg?v=red1" width="88%" alt="Terminal session: whoami, mission and focus areas" /></picture>
+<picture><img src="./assets/terminal-red.svg" width="88%" alt="Terminal session: whoami, mission and focus areas" /></picture>
 
 </div>
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> operator_profile`
 
@@ -32,15 +32,15 @@ learning_now: CompTIA Security+
 mindset: observe -> correlate -> investigate -> improve
 ```
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> analyst_loop`
 
 <div align="center">
-<picture><img src="./assets/pipeline.svg?v=red1" width="100%" alt="Analyst loop: observe, correlate, investigate, improve" /></picture>
+<picture><img src="./assets/pipeline-red.svg" width="100%" alt="Analyst loop: observe, correlate, investigate, improve" /></picture>
 </div>
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> capability_matrix`
 
@@ -65,7 +65,7 @@ mindset: observe -> correlate -> investigate -> improve
 
 </div>
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> hands_on_training`
 
@@ -99,7 +99,7 @@ Structured modules including:
 </tr>
 </table>
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> signal_event: deerhack_2025`
 
@@ -113,7 +113,7 @@ At **Deerhack School Edition 2025**, my team earned:
 
 I contributed to **front-end development and debugging**, helping the team deliver a working prototype and communicate the solution clearly to the judges.
 
-<picture><img src="./assets/divider.svg?v=red1" width="100%" alt="" /></picture>
+<picture><img src="./assets/divider-red.svg" width="100%" alt="" /></picture>
 
 ## `> current_mission`
 
@@ -131,6 +131,6 @@ I contributed to **front-end development and debugging**, helping the team deliv
 
 Open to learning, collaboration, and early-career cybersecurity opportunities.
 
-<picture><img src="./assets/footer.svg?v=red1" width="100%" alt="Network heartbeat — end of transmission" /></picture>
+<picture><img src="./assets/footer-red.svg" width="100%" alt="Network heartbeat — end of transmission" /></picture>
 
 </div>
