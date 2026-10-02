@@ -24,6 +24,9 @@ TEXT = "#ffffff"
 DIM = "#9a7a7f"
 MONO = "'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace"
 
+# Bump when restyling: renamed files dodge cached copies of the old render.
+THEME = "red"
+
 REDUCED = "@media (prefers-reduced-motion: reduce){*{animation:none!important}}"
 
 
@@ -188,7 +191,7 @@ def hero():
   <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="14" fill="none" stroke="{ACCENT}" stroke-opacity=".35"/>
 </svg>
 """
-    write("hero.svg", svg)
+    write(f"hero-{THEME}.svg", svg)
 
 
 # --------------------------------------------------------------------------
@@ -264,7 +267,7 @@ def terminal():
   <text x="{left}" y="{top + lh * len(lines)}"><tspan fill="{WHITE}">❯ </tspan><tspan fill="{ACCENT}" class="cursor">█</tspan></text>
 </svg>
 """
-    write("terminal.svg", svg)
+    write(f"terminal-{THEME}.svg", svg)
 
 
 # --------------------------------------------------------------------------
@@ -329,7 +332,7 @@ def pipeline():
   {''.join(nodes)}
 </svg>
 """
-    write("pipeline.svg", svg)
+    write(f"pipeline-{THEME}.svg", svg)
 
 
 # --------------------------------------------------------------------------
@@ -358,7 +361,7 @@ def divider():
   </rect>
 </svg>
 """
-    write("divider.svg", svg)
+    write(f"divider-{THEME}.svg", svg)
 
 
 # --------------------------------------------------------------------------
@@ -396,7 +399,7 @@ def footer():
   <text x="{w / 2}" y="122" text-anchor="middle" font-family="{MONO}" font-size="12" fill="{DIM}" letter-spacing="4">// END OF TRANSMISSION · STAY VIGILANT //</text>
 </svg>
 """
-    write("footer.svg", svg)
+    write(f"footer-{THEME}.svg", svg)
 
 
 if __name__ == "__main__":
