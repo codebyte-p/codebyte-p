@@ -1,25 +1,21 @@
 <div align="center">
 
-<h1>Prayatna Pokhrel</h1>
-<p><strong>Cybersecurity Undergraduate // Aspiring SOC Analyst</strong></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0b1f3a,100:00d9ff&height=220&section=header&text=PRAYATNA%20POKHREL&fontSize=45&fontColor=e6f7ff&fontAlignY=36&desc=CYBERSECURITY%20UNDERGRADUATE%20%2F%2F%20ASPIRING%20SOC%20ANALYST&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" />
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-<img src="https://img.shields.io/badge/Email-101827?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email badge" />
-<img src="https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub badge" />
-
-<br />
-
-[LinkedIn](https://www.linkedin.com/in/prayatna-pokhrel-288a72435/) · [Email](mailto:p.codebyte@gmail.com) · [GitHub](https://github.com/codebyte-p)
+<img src="./assets/hero.svg" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" />
 
 <br /><br />
 
-[![SOC console status](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=850&background=050816&color=00D9FF&center=true&vCenter=true&width=760&lines=%24+whoami+%3E+Prayatna+Pokhrel;monitoring+%E2%80%A2+triage+%E2%80%A2+investigation+%E2%80%A2+response;turning+security+signals+into+clear+decisions;building+toward+the+SOC)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/prayatna-pokhrel-288a72435/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:p.codebyte@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email" /></a>
+<a href="https://github.com/codebyte-p"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Status-Open_to_SOC_Internships-39ff88?style=for-the-badge&labelColor=050816" alt="Open to SOC internships" />
+
+<br /><br />
+
+<img src="./assets/terminal.svg" width="88%" alt="Terminal session: whoami, mission and focus areas" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> operator_profile`
 
@@ -36,20 +32,40 @@ learning_now: CompTIA Security+
 mindset: observe -> correlate -> investigate -> improve
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## `> analyst_loop`
+
+<div align="center">
+<img src="./assets/pipeline.svg" width="100%" alt="Analyst loop: observe, correlate, investigate, improve" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> capability_matrix`
 
 | Domain | Current foundation |
 |---|---|
-| **Security Operations** | SIEM fundamentals · Alert investigation · Log analysis · Incident response concepts |
-| **Threat Context** | Cyber threat intelligence · Security scenario investigation |
-| **Networks** | Network enumeration with Nmap · DNS fundamentals |
-| **Systems** | Linux · Windows |
-| **Web Security** | Web-application attack fundamentals · Ffuf |
-| **Practice Platforms** | TryHackMe · Hack The Box Academy |
+| 🛡️ **Security Operations** | SIEM fundamentals · Alert investigation · Log analysis · Incident response concepts |
+| 🧠 **Threat Context** | Cyber threat intelligence · Security scenario investigation |
+| 🌐 **Networks** | Network enumeration with Nmap · DNS fundamentals |
+| 🖥️ **Systems** | Linux · Windows |
+| 🕸️ **Web Security** | Web-application attack fundamentals · Ffuf |
+| 🎯 **Practice Platforms** | TryHackMe · Hack The Box Academy |
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-050816?style=flat-square&logo=linux&logoColor=00d9ff" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows-050816?style=flat-square&logo=windows&logoColor=00d9ff" alt="Windows" />
+<img src="https://img.shields.io/badge/Nmap-050816?style=flat-square&logo=gnometerminal&logoColor=00d9ff" alt="Nmap" />
+<img src="https://img.shields.io/badge/Ffuf-050816?style=flat-square&logo=gnubash&logoColor=00d9ff" alt="Ffuf" />
+<img src="https://img.shields.io/badge/TryHackMe-050816?style=flat-square&logo=tryhackme&logoColor=ff3864" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/Hack_The_Box-050816?style=flat-square&logo=hackthebox&logoColor=9fef00" alt="Hack The Box" />
+<img src="https://img.shields.io/badge/CompTIA_Security+-in_progress-ffb000?style=flat-square&labelColor=050816" alt="CompTIA Security+ in progress" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> hands_on_training`
 
@@ -83,31 +99,31 @@ Structured modules including:
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> signal_event: deerhack_2025`
 
 At **Deerhack School Edition 2025**, my team earned:
 
-```text
-[+] Overall Winner
-[+] Best Presentation
-[+] Most Innovative Idea
+```diff
++ [WIN] Overall Winner
++ [WIN] Best Presentation
++ [WIN] Most Innovative Idea
 ```
 
 I contributed to **front-end development and debugging**, helping the team deliver a working prototype and communicate the solution clearly to the judges.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> current_mission`
 
-- Preparing for **CompTIA Security+**
-- Deepening SIEM, log-analysis, and alert-triage fundamentals
-- Building a public body of hands-on cybersecurity work
-- Seeking a **SOC internship or entry-level analyst opportunity** with room to learn from an experienced team
-
----
-
+```text
+[ ACTIVE  ] Preparing for CompTIA Security+
+[ ACTIVE  ] Deepening SIEM, log-analysis, and alert-triage fundamentals
+[ ONGOING ] Building a public body of hands-on cybersecurity work
+[ SEEKING ] SOC internship or entry-level analyst opportunity
+            with room to learn from an experienced team
+```
 
 <div align="center">
 
@@ -115,6 +131,6 @@ I contributed to **front-end development and debugging**, helping the team deliv
 
 Open to learning, collaboration, and early-career cybersecurity opportunities.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,55:0b1f3a,100:050816&height=110&section=footer" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Network heartbeat — end of transmission" />
 
 </div>
