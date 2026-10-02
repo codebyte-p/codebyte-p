@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" />
+<picture><img src="./assets/hero.svg" width="100%" alt="Prayatna Pokhrel — Cybersecurity Undergraduate and Aspiring SOC Analyst" /></picture>
 
 <br /><br />
 
 <a href="https://www.linkedin.com/in/prayatna-pokhrel-288a72435/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:p.codebyte@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email" /></a>
 <a href="https://github.com/codebyte-p"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Status-Open_to_SOC_Internships-39ff88?style=for-the-badge&labelColor=050816" alt="Open to SOC internships" />
+<picture><img src="https://img.shields.io/badge/Status-Open_to_SOC_Internships-39ff88?style=for-the-badge&labelColor=050816" alt="Open to SOC internships" /></picture>
 
 <br /><br />
 
-<img src="./assets/terminal.svg" width="88%" alt="Terminal session: whoami, mission and focus areas" />
+<picture><img src="./assets/terminal.svg" width="88%" alt="Terminal session: whoami, mission and focus areas" /></picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> operator_profile`
 
@@ -32,15 +32,15 @@ learning_now: CompTIA Security+
 mindset: observe -> correlate -> investigate -> improve
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> analyst_loop`
 
 <div align="center">
-<img src="./assets/pipeline.svg" width="100%" alt="Analyst loop: observe, correlate, investigate, improve" />
+<picture><img src="./assets/pipeline.svg" width="100%" alt="Analyst loop: observe, correlate, investigate, improve" /></picture>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> capability_matrix`
 
@@ -55,17 +55,17 @@ mindset: observe -> correlate -> investigate -> improve
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-050816?style=flat-square&logo=linux&logoColor=00d9ff" alt="Linux" />
-<img src="https://img.shields.io/badge/Windows-050816?style=flat-square&logo=windows&logoColor=00d9ff" alt="Windows" />
-<img src="https://img.shields.io/badge/Nmap-050816?style=flat-square&logo=gnometerminal&logoColor=00d9ff" alt="Nmap" />
-<img src="https://img.shields.io/badge/Ffuf-050816?style=flat-square&logo=gnubash&logoColor=00d9ff" alt="Ffuf" />
-<img src="https://img.shields.io/badge/TryHackMe-050816?style=flat-square&logo=tryhackme&logoColor=ff3864" alt="TryHackMe" />
-<img src="https://img.shields.io/badge/Hack_The_Box-050816?style=flat-square&logo=hackthebox&logoColor=9fef00" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/CompTIA_Security+-in_progress-ffb000?style=flat-square&labelColor=050816" alt="CompTIA Security+ in progress" />
+<picture><img src="https://img.shields.io/badge/Linux-050816?style=flat-square&logo=linux&logoColor=00d9ff" alt="Linux" /></picture>
+<picture><img src="https://img.shields.io/badge/Windows-050816?style=flat-square&logo=windows&logoColor=00d9ff" alt="Windows" /></picture>
+<picture><img src="https://img.shields.io/badge/Nmap-050816?style=flat-square&logo=gnometerminal&logoColor=00d9ff" alt="Nmap" /></picture>
+<picture><img src="https://img.shields.io/badge/Ffuf-050816?style=flat-square&logo=gnubash&logoColor=00d9ff" alt="Ffuf" /></picture>
+<picture><img src="https://img.shields.io/badge/TryHackMe-050816?style=flat-square&logo=tryhackme&logoColor=ff3864" alt="TryHackMe" /></picture>
+<picture><img src="https://img.shields.io/badge/Hack_The_Box-050816?style=flat-square&logo=hackthebox&logoColor=9fef00" alt="Hack The Box" /></picture>
+<picture><img src="https://img.shields.io/badge/CompTIA_Security+-in_progress-ffb000?style=flat-square&labelColor=050816" alt="CompTIA Security+ in progress" /></picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> hands_on_training`
 
@@ -99,7 +99,7 @@ Structured modules including:
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> signal_event: deerhack_2025`
 
@@ -113,7 +113,7 @@ At **Deerhack School Edition 2025**, my team earned:
 
 I contributed to **front-end development and debugging**, helping the team deliver a working prototype and communicate the solution clearly to the judges.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture><img src="./assets/divider.svg" width="100%" alt="" /></picture>
 
 ## `> current_mission`
 
@@ -131,6 +131,6 @@ I contributed to **front-end development and debugging**, helping the team deliv
 
 Open to learning, collaboration, and early-career cybersecurity opportunities.
 
-<img src="./assets/footer.svg" width="100%" alt="Network heartbeat — end of transmission" />
+<picture><img src="./assets/footer.svg" width="100%" alt="Network heartbeat — end of transmission" /></picture>
 
 </div>
