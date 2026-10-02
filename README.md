@@ -4,10 +4,10 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/prayatna-pokhrel-288a72435/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:p.codebyte@gmail.com"><img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email" /></a>
-<a href="https://github.com/codebyte-p"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub" /></a>
-<picture><img src="https://img.shields.io/badge/Status-Open_to_SOC_Internships-39ff88?style=for-the-badge&labelColor=050816" alt="Open to SOC internships" /></picture>
+<a href="https://www.linkedin.com/in/prayatna-pokhrel-288a72435/"><img src="https://img.shields.io/badge/LinkedIn-a8001a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:p.codebyte@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=ff1e3c" alt="Email" /></a>
+<a href="https://github.com/codebyte-p"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ff1e3c" alt="GitHub" /></a>
+<picture><img src="https://img.shields.io/badge/Status-Open_to_SOC_Internships-ff1e3c?style=for-the-badge&labelColor=050505" alt="Open to SOC internships" /></picture>
 
 <br /><br />
 
@@ -55,13 +55,13 @@ mindset: observe -> correlate -> investigate -> improve
 
 <div align="center">
 
-<picture><img src="https://img.shields.io/badge/Linux-050816?style=flat-square&logo=linux&logoColor=00d9ff" alt="Linux" /></picture>
-<picture><img src="https://img.shields.io/badge/Windows-050816?style=flat-square&logo=windows&logoColor=00d9ff" alt="Windows" /></picture>
-<picture><img src="https://img.shields.io/badge/Nmap-050816?style=flat-square&logo=gnometerminal&logoColor=00d9ff" alt="Nmap" /></picture>
-<picture><img src="https://img.shields.io/badge/Ffuf-050816?style=flat-square&logo=gnubash&logoColor=00d9ff" alt="Ffuf" /></picture>
-<picture><img src="https://img.shields.io/badge/TryHackMe-050816?style=flat-square&logo=tryhackme&logoColor=ff3864" alt="TryHackMe" /></picture>
-<picture><img src="https://img.shields.io/badge/Hack_The_Box-050816?style=flat-square&logo=hackthebox&logoColor=9fef00" alt="Hack The Box" /></picture>
-<picture><img src="https://img.shields.io/badge/CompTIA_Security+-in_progress-ffb000?style=flat-square&labelColor=050816" alt="CompTIA Security+ in progress" /></picture>
+<picture><img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=ff1e3c" alt="Linux" /></picture>
+<picture><img src="https://img.shields.io/badge/Windows-050505?style=flat-square&logo=windows&logoColor=ff1e3c" alt="Windows" /></picture>
+<picture><img src="https://img.shields.io/badge/Nmap-050505?style=flat-square&logo=gnometerminal&logoColor=ff1e3c" alt="Nmap" /></picture>
+<picture><img src="https://img.shields.io/badge/Ffuf-050505?style=flat-square&logo=gnubash&logoColor=ff1e3c" alt="Ffuf" /></picture>
+<picture><img src="https://img.shields.io/badge/TryHackMe-050505?style=flat-square&logo=tryhackme&logoColor=ffffff" alt="TryHackMe" /></picture>
+<picture><img src="https://img.shields.io/badge/Hack_The_Box-050505?style=flat-square&logo=hackthebox&logoColor=ffffff" alt="Hack The Box" /></picture>
+<picture><img src="https://img.shields.io/badge/CompTIA_Security+-in_progress-ffffff?style=flat-square&labelColor=050505" alt="CompTIA Security+ in progress" /></picture>
 
 </div>
 
